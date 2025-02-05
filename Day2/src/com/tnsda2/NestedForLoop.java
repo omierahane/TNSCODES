@@ -4,7 +4,7 @@ public class NestedForLoop {
 	public static void main(String[] args) {
 		//print tables 
 		
-		int beg=10;
+		int beg=1;
 		int end=20;
 		
 		for(int i=beg; i<=end; i++)
